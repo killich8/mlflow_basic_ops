@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/youne/OneDrive/Desktop/mlflow/mlruns/0/67a28b1df190482da1c16b53bd47c27d/artifacts
+end_time: 1727783848677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67a28b1df190482da1c16b53bd47c27d
+run_name: inquisitive-owl-907
+run_uuid: 67a28b1df190482da1c16b53bd47c27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727783840666
+status: 3
+tags: []
+user_id: youne

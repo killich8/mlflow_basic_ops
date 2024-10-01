@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/youne/OneDrive/Desktop/mlflow/mlruns/0/4fef34c42ef34446a9b0f0da2b2f88a7/artifacts
+end_time: 1727783613044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fef34c42ef34446a9b0f0da2b2f88a7
+run_name: rambunctious-auk-683
+run_uuid: 4fef34c42ef34446a9b0f0da2b2f88a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727783606277
+status: 3
+tags: []
+user_id: youne

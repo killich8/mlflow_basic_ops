@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/youne/OneDrive/Desktop/mlflow/mlruns/0/ed1b6b5876d74ee3a5dc560bff171bba/artifacts
+end_time: 1727784358336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed1b6b5876d74ee3a5dc560bff171bba
+run_name: bright-doe-778
+run_uuid: ed1b6b5876d74ee3a5dc560bff171bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727784351458
+status: 3
+tags: []
+user_id: youne
